@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MCLiii 
 - Mingcan Li
 
-- 我在威斯康星学计算机，这里的冬天很冷。。救命
+- 我在威斯康星学计算机，这里的冬天冷死。。救命
 
 <!---
 MCLiii/MCLiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
