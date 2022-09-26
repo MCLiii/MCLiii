@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @MCLiii 
-- Mingcan Li
-
 Random codes and stuff
 
 <!---
